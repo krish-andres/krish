@@ -361,3 +361,24 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
 }
+
+.center {
+    text-align: center;
+}
+
+#projects {
+    background-color: #34495e;
+}
+
+#projects-header {
+    background-color: #2c3e50;
+    padding: 36px 0 4px 0;
+}
+
+#projects-body {
+    padding: 20px 0 0 0;
+}
+
+a:hover {
+    color: white;
+}
